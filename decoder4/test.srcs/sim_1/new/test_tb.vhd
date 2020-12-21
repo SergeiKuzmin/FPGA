@@ -46,7 +46,7 @@ architecture Behavioral of test_tb is
     signal signal_x: std_logic_vector (3 downto 0);
     
 begin
-UUT: decoder4 port map (s(0) => signal_s(0), s(1) => signal_s(1), x => signal_x);
+UUT: decoder4 port map (s => signal_s, x => signal_x);
    process
    begin
        signal_s <= "00";
@@ -56,6 +56,7 @@ UUT: decoder4 port map (s(0) => signal_s(0), s(1) => signal_s(1), x => signal_x)
        signal_s <= "10";
        wait for 100 ns;
        signal_s <= "11";
+       wait for 100 ns;
    end process;
 
 end Behavioral;

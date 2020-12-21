@@ -24,7 +24,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='D:/vivado/test/test.runs/synth_1'
+HD_PWD='D:/vivado_git/fpga/decoder4/test.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log

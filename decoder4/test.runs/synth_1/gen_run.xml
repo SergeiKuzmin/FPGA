@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7z020clg484-1" LaunchTime="1608563746">
+<GenRun Id="synth_1" LaunchPart="xc7z020clg484-1" LaunchTime="1608568258">
   <File Type="PA-TCL" Name="decoder4.tcl"/>
   <File Type="RDS-PROPCONSTRS" Name="decoder4_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="decoder4_reports.tcl"/>
