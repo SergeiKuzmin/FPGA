@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../../vivado/srs.vhd" \
+"../../../../../../../vivado/srs_tb.vhd" \
+
+# Do not sort compile order
+nosort
