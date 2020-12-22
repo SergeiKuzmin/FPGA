@@ -1,24 +1,3 @@
-----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
--- 
--- Create Date: 21.12.2020 02:33:31
--- Design Name: 
--- Module Name: test_vivado - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
-----------------------------------------------------------------------------------
-
-
 library ieee;
 use ieee.std_logic_1164.all;
  
@@ -36,4 +15,3 @@ begin
 		"0100" when (s = "10") else
 		"1000";
 end cond_arch;
-
