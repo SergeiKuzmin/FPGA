@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu Dec 24 01:14:09 2020
+# Process ID: 13008
+# Current directory: D:/FPGA/fpga/decoder4/decoder4.runs/synth_1
+# Command line: vivado.exe -log decoder4.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source decoder4.tcl
+# Log file: D:/FPGA/fpga/decoder4/decoder4.runs/synth_1/decoder4.vds
+# Journal file: D:/FPGA/fpga/decoder4/decoder4.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source decoder4.tcl -notrace
