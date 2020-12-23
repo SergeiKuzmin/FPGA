@@ -2,11 +2,11 @@
 # Vivado v2020.2 (64-bit)
 # SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
 # IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
-# Start of session at: Wed Dec 23 00:27:15 2020
-# Process ID: 2236
-# Current directory: D:/vivado_git/fpga/mux4/mux4.runs/synth_1
+# Start of session at: Thu Dec 24 00:51:01 2020
+# Process ID: 7792
+# Current directory: D:/FPGA/fpga/mux4/mux4.runs/synth_1
 # Command line: vivado.exe -log mux4.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mux4.tcl
-# Log file: D:/vivado_git/fpga/mux4/mux4.runs/synth_1/mux4.vds
-# Journal file: D:/vivado_git/fpga/mux4/mux4.runs/synth_1\vivado.jou
+# Log file: D:/FPGA/fpga/mux4/mux4.runs/synth_1/mux4.vds
+# Journal file: D:/FPGA/fpga/mux4/mux4.runs/synth_1\vivado.jou
 #-----------------------------------------------------------
 source mux4.tcl -notrace
