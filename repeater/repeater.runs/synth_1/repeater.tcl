@@ -4,7 +4,7 @@
 
 set TIME_start [clock seconds] 
 namespace eval ::optrace {
-  variable script "D:/vivado_git/fpga/repeater/repeater.runs/synth_1/repeater.tcl"
+  variable script "D:/FPGA/fpga/repeater/repeater.runs/synth_1/repeater.tcl"
   variable category "vivado_synth"
 }
 
@@ -76,16 +76,16 @@ create_project -in_memory -part xc7z020clg484-1
 set_param project.singleFileAddWarning.threshold 0
 set_param project.compositeFile.enableAutoGeneration 0
 set_param synth.vivado.isSynthRun true
-set_property webtalk.parent_dir D:/vivado_git/fpga/repeater/repeater.cache/wt [current_project]
-set_property parent.project_path D:/vivado_git/fpga/repeater/repeater.xpr [current_project]
+set_property webtalk.parent_dir D:/FPGA/fpga/repeater/repeater.cache/wt [current_project]
+set_property parent.project_path D:/FPGA/fpga/repeater/repeater.xpr [current_project]
 set_property default_lib xil_defaultlib [current_project]
 set_property target_language Verilog [current_project]
 set_property board_part xilinx.com:zc702:part0:1.4 [current_project]
-set_property ip_output_repo d:/vivado_git/fpga/repeater/repeater.cache/ip [current_project]
+set_property ip_output_repo d:/FPGA/fpga/repeater/repeater.cache/ip [current_project]
 set_property ip_cache_permissions {read write} [current_project]
 OPTRACE "Creating in-memory project" END { }
 OPTRACE "Adding files" START { }
-read_vhdl -library xil_defaultlib D:/vivado_git/fpga/repeater/repeater.srcs/sources_1/new/repeater.vhd
+read_vhdl -library xil_defaultlib D:/FPGA/fpga/repeater/repeater.srcs/sources_1/new/repeater.vhd
 OPTRACE "Adding files" END { }
 # Mark all dcp files as not used in implementation to prevent them from being
 # stitched into the results of this synthesis run. Any black boxes in the

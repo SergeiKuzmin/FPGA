@@ -2,11 +2,11 @@
 # Webtalk v2020.2 (64-bit)
 # SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
 # IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
-# Start of session at: Tue Dec 22 23:18:56 2020
-# Process ID: 17804
-# Current directory: D:/vivado_git/fpga/repeater/repeater.sim/sim_1/behav/xsim
-# Command line: wbtcv.exe -mode batch -source D:/vivado_git/fpga/repeater/repeater.sim/sim_1/behav/xsim/xsim.dir/repeater_tb_behav/webtalk/xsim_webtalk.tcl -notrace
-# Log file: D:/vivado_git/fpga/repeater/repeater.sim/sim_1/behav/xsim/webtalk.log
-# Journal file: D:/vivado_git/fpga/repeater/repeater.sim/sim_1/behav/xsim\webtalk.jou
+# Start of session at: Thu Dec 24 01:21:36 2020
+# Process ID: 956
+# Current directory: D:/FPGA/fpga/repeater/repeater.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/FPGA/fpga/repeater/repeater.sim/sim_1/behav/xsim/xsim.dir/repeater_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/FPGA/fpga/repeater/repeater.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/FPGA/fpga/repeater/repeater.sim/sim_1/behav/xsim\webtalk.jou
 #-----------------------------------------------------------
-source D:/vivado_git/fpga/repeater/repeater.sim/sim_1/behav/xsim/xsim.dir/repeater_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+source D:/FPGA/fpga/repeater/repeater.sim/sim_1/behav/xsim/xsim.dir/repeater_tb_behav/webtalk/xsim_webtalk.tcl -notrace

@@ -24,7 +24,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='D:/vivado_git/fpga/repeater/repeater.runs/synth_1'
+HD_PWD='D:/FPGA/fpga/repeater/repeater.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log
