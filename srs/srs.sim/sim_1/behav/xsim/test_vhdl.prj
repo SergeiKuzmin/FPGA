@@ -1,7 +1,7 @@
 # compile vhdl design source files
 vhdl xil_defaultlib  \
-"../../../../../../../vivado/srs.vhd" \
-"../../../../../../../vivado/srs_tb.vhd" \
+"../../../../srs.srcs/sources_1/new/srs.vhd" \
+"../../../../srs.srcs/sim_1/new/srs_tb.vhd" \
 
 # Do not sort compile order
 nosort

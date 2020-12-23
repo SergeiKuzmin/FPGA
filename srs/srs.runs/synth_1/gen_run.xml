@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7z020clg484-1" LaunchTime="1608671656">
+<GenRun Id="synth_1" LaunchPart="xc7z020clg484-1" LaunchTime="1608758523">
   <File Type="PA-TCL" Name="srs.tcl"/>
   <File Type="RDS-PROPCONSTRS" Name="srs_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="srs_reports.tcl"/>
@@ -11,7 +11,7 @@
   <File Type="VDS-TIMING-PB" Name="srs_timing_summary_synth.pb"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
-    <File Path="$PPRDIR/../../../vivado/srs.vhd">
+    <File Path="$PSRCDIR/sources_1/new/srs.vhd">
       <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="simulation"/>

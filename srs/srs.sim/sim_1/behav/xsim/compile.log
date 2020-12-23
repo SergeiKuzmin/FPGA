@@ -1,2 +1,4 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "D:/vivado/srs.vhd" into library xil_defaultlib
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/FPGA/fpga/srs/srs.srcs/sources_1/new/srs.vhd" into library xil_defaultlib
 INFO: [VRFC 10-3107] analyzing entity 'srs'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/FPGA/fpga/srs/srs.srcs/sim_1/new/srs_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'test'
