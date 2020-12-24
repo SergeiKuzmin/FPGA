@@ -1,4 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "D:/FPGA/fpga/repeater/repeater.srcs/sources_1/new/repeater.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'repeater'
-INFO: [VRFC 10-163] Analyzing VHDL file "D:/FPGA/fpga/repeater/repeater.srcs/sim_1/new/repeater_tb.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'repeater_tb'
