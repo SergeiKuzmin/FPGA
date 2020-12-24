@@ -42,14 +42,15 @@ end repeater;
 
 architecture Behavioral of repeater is
 constant H: integer := 3;
-signal buf: std_logic_vector((H - 1) downto 0) := (others => '0');
+signal buf: std_logic_vector((H - 1) downto 0);
 signal flag: std_logic := '1';
 begin
-    process(clk, x)
+    process(clk, x, flag)
     begin
     if flag = '1' then
             y <= '0';
             flag <= '0';
+            buf <= (others => '0');
     end if;
     if rising_edge(clk) then
         y <= buf(0);

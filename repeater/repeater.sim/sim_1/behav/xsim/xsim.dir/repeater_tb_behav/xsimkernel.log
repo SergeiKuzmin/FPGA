@@ -1,7 +1,7 @@
-Running: xsim.dir/repeater_tb_behav/xsimk.exe -simmode gui -wdb repeater_tb_behav.wdb -simrunnum 0 -socket 53256
+Running: xsim.dir/repeater_tb_behav/xsimk.exe -simmode gui -wdb repeater_tb_behav.wdb -simrunnum 0 -socket 53318
 Design successfully loaded
 Design Loading Memory Usage: 5332 KB (Peak: 5332 KB)
 Design Loading CPU Usage: 15 ms
 Simulation completed
-Simulation Memory Usage: 5876 KB (Peak: 5876 KB)
+Simulation Memory Usage: 5892 KB (Peak: 5892 KB)
 Simulation CPU Usage: 15 ms
